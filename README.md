@@ -5,7 +5,7 @@ Ukulele Tuner for micro:bit
 1) A micro:bit board
 2) Mi: Sound Speaker board for BBC micro:bit
 
-> A fun project which helps me tune my ukulele by hearing the tones for each string.
+> A fun project which helps me tune my ukulele by hearing the tones of each representing string.
 
 ### Standard Ukulele Tuning is High G, C, E, A
 
